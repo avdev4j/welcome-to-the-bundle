@@ -1,0 +1,4 @@
+code: my_fragment # The unique id
+
+guiCode: >-
+  "<div>Here the content</div>"

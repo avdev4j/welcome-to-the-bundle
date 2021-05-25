@@ -1,0 +1,6 @@
+code: my-demo
+description: My Demo bundle
+components:
+  fragments:
+    - fragments/myFragment-descriptor.yaml
+    - fragments/myFragment-ftl-descriptor.yaml

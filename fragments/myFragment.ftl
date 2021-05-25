@@ -1,0 +1,1 @@
+<div>Here the content from the FTL</div>
